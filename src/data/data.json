@@ -1,0 +1,155 @@
+{
+    "Header" : {
+        "title" : "We are a Landing Page",
+        "paragraph" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    },
+    "About" : {
+        "paragraph" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Why1" : [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services" : [
+       {
+        "icon": "fa-brands fa-wordpress",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+       },
+       {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+       },
+       {
+        "icon": "fa fa-cloud-download",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+       }
+
+    ], 
+    "Features" : [
+        {
+            "icon": "fa fa-comments-o",
+            "name": "Features 1",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "name": "Features 2",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-magic",
+            "name": "Features 3",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+    ],
+    "Testimonials" : [
+        {
+            "img" : "/img/testimonials/01.jpg",
+            "name":"John",
+            "feedback" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        },
+        {
+            "img" : "/img/testimonials/02.jpg",
+            "name":"Bunty",
+            "feedback" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        },
+        {
+            "img" : "/img/testimonials/03.jpg",
+            "name":"Sunny",
+            "feedback" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        },
+        {
+            "img" : "/img/testimonials/04.jpg",
+            "name":"Pooja",
+            "feedback" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        }
+    ],
+    "Team" : [
+        {
+            "profile": "/img/team/01.jpg",
+            "name": "John Doe 1",
+            "job": "Director"
+        },
+        {
+            "profile": "/img/team/02.jpg",
+            "name": "John Doe 2",
+            "job": "Director"
+        },
+        {
+            "profile": "/img/team/03.jpg",
+            "name": "John Doe 3",
+            "job": "Director"
+        },
+        {
+            "profile": "/img/team/04.jpg",
+            "name": "John Doe 4",
+            "job": "Director"
+        }
+    ],
+    "Contact" : {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Gallery": [
+        {
+          "title": "Project Title 1",
+          "largeImage": "img/portfolio/01-large.jpg",
+          "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+          "title": "Project Title 2",
+          "largeImage": "img/portfolio/02-large.jpg",
+          "smallImage": "img/portfolio/02-small.jpg"
+        },
+        {
+          "title": "Project Title 3",
+          "largeImage": "img/portfolio/03-large.jpg",
+          "smallImage": "img/portfolio/03-small.jpg"
+        },
+        {
+          "title": "Project Title 4",
+          "largeImage": "img/portfolio/04-large.jpg",
+          "smallImage": "img/portfolio/04-small.jpg"
+        },
+        {
+          "title": "Project Title 5",
+          "largeImage": "img/portfolio/05-large.jpg",
+          "smallImage": "img/portfolio/05-small.jpg"
+        },
+        {
+          "title": "Project Title 5",
+          "largeImage": "img/portfolio/06-large.jpg",
+          "smallImage": "img/portfolio/06-small.jpg"
+        },
+        {
+          "title": "Project Title 7",
+          "largeImage": "img/portfolio/07-large.jpg",
+          "smallImage": "img/portfolio/07-small.jpg"
+        },
+        {
+          "title": "Project Title 8",
+          "largeImage": "img/portfolio/08-large.jpg",
+          "smallImage": "img/portfolio/08-small.jpg"
+        },
+        {
+          "title": "Project Title 9",
+          "largeImage": "img/portfolio/09-large.jpg",
+          "smallImage": "img/portfolio/09-small.jpg"
+        }
+      ]
+}
